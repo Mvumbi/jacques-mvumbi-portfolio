@@ -5,13 +5,15 @@
     "projects": "Projects",
     "contact": "Contact"
   },
-  "hero": {
-    "greeting": "Hi, I'm",
-    "role": "Full-Stack Developer & Integrations Lead",
-    "tagline": "I build reliable web applications and API integrations, from the interface to the server.",
-    "cta_projects": "View my projects",
-    "cta_contact": "Contact me"
-  },
+ "hero": {
+  "available": "Open to opportunities",
+  "greeting": "Hi, I'm",
+  "role": "Full-Stack Developer & Integrations Lead",
+  "tagline": "I build reliable web applications and API integrations, from the interface to the server.",
+  "cta_projects": "View my projects",
+  "cta_cv": "Download my CV",
+  "cta_contact": "Contact me"
+},
   "footer": {
     "rights": "All rights reserved."
   }
