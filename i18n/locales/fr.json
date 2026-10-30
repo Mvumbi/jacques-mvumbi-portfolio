@@ -1,0 +1,18 @@
+{
+  "nav": {
+    "about": "À propos",
+    "skills": "Compétences",
+    "projects": "Projets",
+    "contact": "Contact"
+  },
+  "hero": {
+    "greeting": "Bonjour, je suis",
+    "role": "Développeur Full-Stack & Responsable des intégrations",
+    "tagline": "Je conçois des applications web et des intégrations d'API fiables, de l'interface jusqu'au serveur.",
+    "cta_projects": "Voir mes projets",
+    "cta_contact": "Me contacter"
+  },
+  "footer": {
+    "rights": "Tous droits réservés."
+  }
+}
