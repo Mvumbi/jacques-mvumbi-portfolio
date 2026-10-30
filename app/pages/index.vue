@@ -1,6 +1,8 @@
 <template>
   <div>
     <SectionsHero />
+    <SectionsAbout />
+    <SectionsSkills />
 
     <section id="about" class="min-h-[50vh]" />
     <section id="skills" class="min-h-[50vh]" />

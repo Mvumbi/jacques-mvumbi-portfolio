@@ -14,6 +14,30 @@
   "cta_cv": "Download my CV",
   "cta_contact": "Contact me"
 },
+
+"about": {
+  "title": "About",
+  "p1": "I'm a full-stack developer and currently an integrations lead. I connect systems, design APIs and turn business needs into reliable web solutions.",
+  "p2": "I've been working with Vue.js, Nuxt and Node.js for [X] years. I value well-designed products, readable code and teams that communicate clearly.",
+  "p3": "I'm now looking for new opportunities in Canada, in web or full-stack development.",
+  "highlights": {
+    "integration": { "title": "Integrations & APIs", "text": "System connections, REST APIs and reliable data flows between applications." },
+    "fullstack": { "title": "Full-Stack", "text": "From the Vue/Nuxt interface to the server and the database." },
+    "team": { "title": "Teamwork", "text": "Clear communication, code reviews and continuous delivery." }
+  },
+  "stats": { "years": "years of experience", "projects": "projects delivered", "integrations": "integrations built" }
+},
+"skills": {
+  "title": "Skills",
+  "subtitle": "The technologies I use every day.",
+  "categories": {
+    "frontend": "Frontend",
+    "backend": "Backend",
+    "integration": "Integrations & APIs",
+    "database": "Databases",
+    "devops": "DevOps & tools"
+  }
+},
   "footer": {
     "rights": "All rights reserved."
   }
